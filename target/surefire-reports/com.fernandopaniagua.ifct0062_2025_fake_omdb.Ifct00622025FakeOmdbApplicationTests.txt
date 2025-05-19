@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fernandopaniagua.ifct0062_2025_fake_omdb.Ifct00622025FakeOmdbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.398 s -- in com.fernandopaniagua.ifct0062_2025_fake_omdb.Ifct00622025FakeOmdbApplicationTests

@@ -1,0 +1,5 @@
+/Users/tardes/IdeaProjects/ifct0062_2025_fake_omdb/src/main/java/com/fernandopaniagua/ifct0062_2025_fake_omdb/Ifct00622025FakeOmdbApplication.java
+/Users/tardes/IdeaProjects/ifct0062_2025_fake_omdb/src/main/java/com/fernandopaniagua/ifct0062_2025_fake_omdb/model/Movie.java
+/Users/tardes/IdeaProjects/ifct0062_2025_fake_omdb/src/main/java/com/fernandopaniagua/ifct0062_2025_fake_omdb/repository/IMovieRepository.java
+/Users/tardes/IdeaProjects/ifct0062_2025_fake_omdb/src/main/java/com/fernandopaniagua/ifct0062_2025_fake_omdb/service/impl/MovieServiceImpl.java
+/Users/tardes/IdeaProjects/ifct0062_2025_fake_omdb/src/main/java/com/fernandopaniagua/ifct0062_2025_fake_omdb/service/interfaces/MovieService.java

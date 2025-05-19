@@ -1,0 +1,5 @@
+com/fernandopaniagua/ifct0062_2025_fake_omdb/model/Movie.class
+com/fernandopaniagua/ifct0062_2025_fake_omdb/service/interfaces/MovieService.class
+com/fernandopaniagua/ifct0062_2025_fake_omdb/service/impl/MovieServiceImpl.class
+com/fernandopaniagua/ifct0062_2025_fake_omdb/Ifct00622025FakeOmdbApplication.class
+com/fernandopaniagua/ifct0062_2025_fake_omdb/repository/IMovieRepository.class
